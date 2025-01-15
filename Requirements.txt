@@ -1,0 +1,10 @@
+jupyter
+notebook
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+ipykernel
+ipywidgets
+nbformat
