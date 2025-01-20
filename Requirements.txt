@@ -8,3 +8,4 @@ scipy
 ipykernel
 ipywidgets
 nbformat
+scikit-learn
